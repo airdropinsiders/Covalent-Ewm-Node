@@ -34,3 +34,4 @@ docker run -d --restart always --name light-client -e PRIVATE_KEY="GANTI_PRIVATE
 ```
 docker logs -f light-client
 ```
+Credit : https://github.com/KaelVNode/Covalent
